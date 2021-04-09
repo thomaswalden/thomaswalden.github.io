@@ -14,13 +14,16 @@ author: Thomas Walden
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://tomwalden89.github.io/tomwalden.github.io/"
   About Me: "aboutme"
   Resources:
   - YouTube: "https://www.youtube.com/channel/UCZzicHn6o8EK3yT7KIZEs9Q"
-  - Publications: "https://scholar.google.com/citations?user=8hSzrCoAAAAJ&hl=en&oi=ao"
+  - Publications: 
+        - Google Scholar: "https://scholar.google.com/citations?user=8hSzrCoAAAAJ&hl=en&oi=ao"
+        - Research Gate: "https://www.researchgate.net/profile/Thomas-Walden-3"
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
-  Home: "https://tomwalden89.github.io/tomwalden.github.io/"
+  
 
 # --- Logo --- #
 
