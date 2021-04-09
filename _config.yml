@@ -16,9 +16,9 @@ author: Thomas Walden
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://tomwalden89.github.io/tomwalden.github.io/"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  Home: "https://tomwalden89.github.io/tomwalden.github.io/"
 
 # --- Logo --- #
 
