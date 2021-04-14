@@ -9,6 +9,8 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 
 ### Skills
  - R Studio
-### My story
+
+
+## My story
 
 
