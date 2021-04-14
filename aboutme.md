@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Thomas Walden
+Hi, my name is Thomas Walden and I am PhD Candidate at Murdoch University in Perth, Western Australia.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
+My PhD focuses on blood flow restricted walking. Specifically, my main research goal is to further understand the perscription parameters and safety elements of blood flow restricted walking. I am on a quest to determine whether blood flow restricted walking is a safe exercise modality for individulas that may already excipt numerous risk factors for exercise. This would allow increased access to the benefits of exercise, removing a critical barrier to better health, improved fitness and increased quality of life for all.        
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
