@@ -55,6 +55,13 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity. (International Conference on Strength Training - 2018)
 
 ### Career Aspirations and Goals
+ - My number one goal is to use my research skills to help as many people enjoy the benefits of exercise
+ 
+### Research Interests
+ - The Biomechanics of Blood Flow Restricted Walking 
+ - Effects of Exercise on Cognitive Health
+ - Healthy Aging using Exercise - Increaseing Health, Fitness, Mobility and Quality of Life Using Exercise
+ - Using Enviromental Factors to Improve Sports Performance
 
 ### Professional Values
  - Thorough Investigation
