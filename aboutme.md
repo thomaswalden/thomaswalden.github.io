@@ -60,7 +60,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 ### Research Interests
  - The Biomechanics of Blood Flow Restricted Walking 
  - Effects of Exercise on Cognitive Health
- - Healthy Aging - Increaseing Health, Fitness, Mobility and Quality of Life Using Exercise
+ - Healthy Aging - Health, Fitness, Mobility and Quality of Life Using Exercise
  - Using Enviromental Factors to Improve Sports Performance
 
 ### Professional Values
