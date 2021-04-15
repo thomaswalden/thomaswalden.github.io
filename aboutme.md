@@ -11,7 +11,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  - Doctor of Philosophy - Exercise Science (2019 - Present)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
- - 
+ 
 ### Affiliations
  - Centre for Healthy Ageing, Murdoch University
  - Enviromental Physiology Special Interest Group
