@@ -17,10 +17,21 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  - Certified Phlabotomist - WA School of Pathology
 
 ### Industry Memberships
+ - Exercise and Sport Science Australia Student Member
+ - Australian Strength and Conditioning Association Student Member
+ - American College of Sports Medicine Student Member
 
 ### Awards
 
-### Conferences Attended
+### Publications
+
+### Conference Presentations
+
+### Conference Posters
+
+### Career Aspirations and Goals
+
+### Professional Values
 
 ### Skills
  - R Studio
