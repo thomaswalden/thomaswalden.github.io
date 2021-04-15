@@ -53,6 +53,11 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 ### Career Aspirations and Goals
 
 ### Professional Values
+ - Thorough Investigation
+ - High Quality Research
+ - Honesty and Integrity
+ - Committed to Always Learning
+ - Committed to Share Knowledge to Help Others Learn
 
 ### Skills
  - R Studio
