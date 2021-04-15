@@ -30,10 +30,25 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
 
 ### Publications
+ - Thomas P. Walden, Olivier Girard, Alasdair Dempsey, Andrew M. Jonson, Kieran J. Marston, and Brendan R. Scott. Sessional wok-rate does not affect the magnitude to which simulated hypoxia can augment acute physiological responses during resistance exercise (2020) European Journal of Applied Physiology.
 
 ### Conference Presentations
-
+ - Resistance Training in Hypoxia – A comparison of acute physiological responses when exercising to failure or not. (ASCA Conference 2019)
+ 
+ - Hypoxic resistance training and the acute physiological effects. (Environmental Physiology Special Interest Group [EPSIG] – 2019)
+ 
 ### Conference Posters
+ - Thomas P. Walden, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer.. How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise? (Exercise and Sport Science Australia Conference – 2021)
+ 
+ - Andrew M. Jonson, Olivier Girard, Thomas P. Walden and Brendan R. Scott. Effects of failure and non-failure resistance exercise in hypoxia and normoxia on neuromuscular performance. (Exercise and Sport Science Australia Conference – 2020)
+
+ - Brendan R. Scott, Kieran J. Marston, Shaun Y. Teo, Mitchell R. L. Forrest, Thomas P. Walden and Jeremiah J. Peiffer. Understanding the intensity of resistance exercise: is the workrate a useful metric? (Exercise and Sport Science Australia Conference – 2021)
+
+ - Thomas P. Walden, Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston and Brendan R. Scott. Acute muscle oxygenation and activation responses to resistance exercise in hypoxia. (Australian Strength and Conditioning Association – 2019)
+ 
+ - Thomas P. Walden, Olivier Girard, Andrew M. Jonson and Brendan R. Scott. Hypoxic resistance exercise: How does training to failure or not influence acute physiological responses? (International Conference on Strength Training - 2018)
+ 
+ - Andrew M. Jonson, Olivier Girard, Thomas P. Walden and Brendan R. Scott. Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity. (International Conference on Strength Training - 2018)
 
 ### Career Aspirations and Goals
 
