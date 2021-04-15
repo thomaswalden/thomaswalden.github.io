@@ -27,6 +27,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 
 ### Awards
  - European Journal of Sport Science "Future if Sport Science" writing competition finalist (2020)
+
  - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
 
 ### Publications
