@@ -40,7 +40,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 ### Conference Posters
  - Thomas P. Walden, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer.. How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise? (Exercise and Sport Science Australia Conference – 2021)
  
- - Andrew M. Jonson, Olivier Girard, Thomas P. Walden and Brendan R. Scott. Effects of failure and non-failure resistance exercise in hypoxia and normoxia on neuromuscular performance. (Exercise and Sport Science Australia Conference – 2020)
+ - Andrew M. Jonson, Olivier Girard, Thomas P. Walden and Brendan R. Scott. Effects of failure and non-failure resistance exercise in hypoxia and normoxia on neuromuscular performance. (Exercise and Sport Science Australia Conference – 2021)
 
  - Brendan R. Scott, Kieran J. Marston, Shaun Y. Teo, Mitchell R. L. Forrest, Thomas P. Walden and Jeremiah J. Peiffer. Understanding the intensity of resistance exercise: is the workrate a useful metric? (Exercise and Sport Science Australia Conference – 2021)
 
