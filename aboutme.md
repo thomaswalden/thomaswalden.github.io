@@ -14,9 +14,10 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  
 ### Affiliations
  - Centre for Healthy Ageing, Murdoch University
- - Enviromental Physiology Special Interest Group
  - Centre for Molecular Medicine and Innovative Therapeutics
- - Women in STEM Perth
+ - Enviromental Physiology Special Interest Group
+ - Lifestyle Approaches Towards Cognitive Health
+ - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) 
   
 ### Certifications
  - Senior First Aid and CPR
