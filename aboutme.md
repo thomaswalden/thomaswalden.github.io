@@ -37,7 +37,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  - **Thomas P. Walden**, Olivier Girard, Alasdair Dempsey, Andrew M. Jonson, Kieran J. Marston, and Brendan R. Scott. [Sessional wok-rate does not affect the magnitude to which simulated hypoxia can augment acute physiological responses during resistance exercise](https://link.springer.com/article/10.1007/s00421-020-04440-3) (2020) European Journal of Applied Physiology.
 
 ### Conference Presentations
- - Resistance Training in Hypoxia – A comparison of acute physiological responses when exercising to failure or not. (ASCA Conference - 2019)
+ - Resistance Training in Hypoxia – [A comparison of acute physiological responses when exercising to failure or not.](https://www.researchgate.net/publication/337560911_Resistance_Training_in_Hypoxia_A_comparison_of_acute_physiological_responses_when_exercising_to_failure_or_not) (ASCA Conference - 2019)
  
  - Hypoxic resistance training and the acute physiological effects. (Environmental Physiology Special Interest Group (EPSIG – 2019)
  
@@ -48,11 +48,11 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 
  - Brendan R. Scott, Kieran J. Marston, Shaun Y. Teo, Mitchell R. L. Forrest, **Thomas P. Walden** and Jeremiah J. Peiffer. Understanding the intensity of resistance exercise: is the workrate a useful metric? (Exercise and Sport Science Australia Conference – 2021)
 
- - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston and Brendan R. Scott. Acute muscle oxygenation and activation responses to resistance exercise in hypoxia. (Australian Strength and Conditioning Association – 2019)
+ - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston and Brendan R. Scott. [Acute muscle oxygenation and activation responses to resistance exercise in hypoxia.](https://www.researchgate.net/publication/337560946_Acute_Muscle_Oxygenation_and_Activation_Responses_to_Resistance_Exercise_in_Hypoxia) (Australian Strength and Conditioning Association – 2019)
  
- - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson and Brendan R. Scott. Hypoxic resistance exercise: How does training to failure or not influence acute physiological responses? (International Conference on Strength Training - 2018)
+ - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson and Brendan R. Scott. Hypoxic resistance exercise: [How does training to failure or not influence acute physiological responses?](https://www.researchgate.net/publication/337560948_Hypoxic_Resistance_Exercise_How_Does_Training_to_Failure_or_Not_Influence_Acute_Physiological_Responses) (International Conference on Strength Training - 2018)
  
- - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity. (International Conference on Strength Training - 2018)
+ - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. [Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity](https://www.researchgate.net/publication/344606940_Resistance_Exercise_To_Failure_Or_Not_In_Hypoxia_And_Normoxia_Acute_Changes_In_Weight_Lifting_Velocity) (International Conference on Strength Training - 2018)
 
 ### Career Aspirations and Goals
  - My number one goal is to use my research skills to help as many people enjoy the benefits of exercise
