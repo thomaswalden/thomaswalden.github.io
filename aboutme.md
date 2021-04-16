@@ -15,7 +15,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 ### Affiliations
  - Centre for Healthy Ageing, Murdoch University
  - Centre for Molecular Medicine and Innovative Therapeutics
- - Enviromental Physiology Special Interest Group
+ - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
  - Lifestyle Approaches Towards Cognitive Health
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) 
   
