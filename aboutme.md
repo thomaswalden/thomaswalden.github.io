@@ -15,7 +15,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 ### Affiliations
  - [Centre for Healthy Ageing, Murdoch University](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-healthy-ageing)
  - [Centre for Molecular Medicine and Innovative Therapeutics](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-molecular-medicine-and-innovative-therapeutics)
- - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)(EPSIG)
+ - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
  - Lifestyle Approaches Towards Cognitive Health
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) 
   
@@ -42,7 +42,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
 
  - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Resistance Training in Hypoxia – [A comparison of acute physiological responses when exercising to failure or not.](https://www.researchgate.net/publication/337560911_Resistance_Training_in_Hypoxia_A_comparison_of_acute_physiological_responses_when_exercising_to_failure_or_not) (ASCA Conference - 2019)
  
- - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott.Hypoxic resistance training and the acute physiological effects. (EPSIG – 2019)
+ - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott.Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG) – 2019)
  
 ### Conference Posters
  - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer.. How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise? (Exercise and Sport Science Australia Conference – 2021)
