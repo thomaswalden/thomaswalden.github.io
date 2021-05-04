@@ -19,7 +19,7 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - Lifestyle Approaches Towards Cognitive Health
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) 
 
-### PhD. Supervisory Team
+### Ph.D Supervisory Team
  - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
  - [Associate Professor Jeremiah Peiffer](http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
  - [Dr Alasdair Dempsey](http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
