@@ -49,7 +49,7 @@ My PhD focuses on blood flow restricted walking. Specifically, my main research 
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance. (Exercise and Sport Science Australia Conference – 2021)
 
- - Andrew M. Jonson, Olivier Girard, Brad Wall, **Thomas P. Walden** and Brendan R. Scott. Reliability of vertical force-velocity-power profiling variables with free-weight and smith machince countermovement jumps. (Exercise and Sport Science Australia Conference – 2021)
+ - Andrew M. Jonson, Olivier Girard, Brad Wall, **Thomas P. Walden** and Brendan R. Scott. Reliability of vertical force-velocity-power profile variables with free-weight and smith machince countermovement jumps. (Exercise and Sport Science Australia Conference – 2021)
 
  - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston and Brendan R. Scott. [Acute muscle oxygenation and activation responses to resistance exercise in hypoxia.](https://www.researchgate.net/publication/337560946_Acute_Muscle_Oxygenation_and_Activation_Responses_to_Resistance_Exercise_in_Hypoxia) (Australian Strength and Conditioning Association – 2019)
  
