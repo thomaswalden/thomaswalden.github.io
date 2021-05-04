@@ -20,10 +20,10 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) 
 
 ### PhD. Supervisory Team
- - [Associate Professor Timothy FairChild] (http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
- - [Associate Professor Jeremiah Peiffer] (http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
- - [Dr Alasdair Dempsey] (http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
- - [Associate Professor Olivier Girard] (https://research-repository.uwa.edu.au/en/persons/olivier-girard) - University of Western Australia
+ - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
+ - [Associate Professor Jeremiah Peiffer](http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
+ - [Dr Alasdair Dempsey](http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
+ - [Associate Professor Olivier Girard](https://research-repository.uwa.edu.au/en/persons/olivier-girard) - University of Western Australia
 
 ### Certifications
  - Senior First Aid and CPR
