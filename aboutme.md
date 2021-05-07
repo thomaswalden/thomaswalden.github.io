@@ -25,11 +25,6 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - [Dr Alasdair Dempsey](http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
  - [Associate Professor Olivier Girard](https://research-repository.uwa.edu.au/en/persons/olivier-girard) - University of Western Australia
 
-### Certifications
- - Senior First Aid and CPR
- - Radiation Safety Certificate
- - Certified Phlabotomist - WA School of Pathology
-
 ### Industry Memberships
  - Exercise and Sport Science Australia (ESSA) Student Member
  - Australian Strength and Conditioning Association (ASCA) Student Member
@@ -78,6 +73,11 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - Honesty and Integrity
  - Committed to Always Learning
  - Committed to Sharing Knowledge to Help Others Learn
+
+### Certifications
+ - Senior First Aid and CPR
+ - Radiation Safety Certificate
+ - Certified Phlabotomist - WA School of Pathology
 
 ### Skills
  - R Studio
