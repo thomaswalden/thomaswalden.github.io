@@ -31,6 +31,8 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - American College of Sports Medicine (ACSM) Student Member
 
 ### Awards
+- ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) 
+
 - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020)
 
  - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
