@@ -17,7 +17,7 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - [Centre for Molecular Medicine and Innovative Therapeutics](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-molecular-medicine-and-innovative-therapeutics)
  - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
  - Lifestyle Approaches Towards Cognitive Health
- - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) 
+ - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member 
 
 ### Ph.D Supervisory Team
  - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
