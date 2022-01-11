@@ -18,8 +18,6 @@ During 2021 I commenced the final study of my PhD. Throwing myself in the deep e
 
 ![Photo](/270849461_266383862229845_842484533639601152_n.jpg)
 
-![Photo](/269960125_506331194063450_2134200014065047653_n.jpg)
-
 ###Brief Overview on publications submitted
 During 2021 I was a part of three manuscript submissions, two first authors and one named author. My first author publications come straight from the studies associated with my PhD relating to blood flow restricted exercise and its prescription. These are currently in review, and I will add links here and under the about tab on the home page once accepted.
 The publication from the research group I am a part of explores the impact of a hypoxic environment on training quality and recovery times frames compared to the equivalent weights session in normoxia. Again this paper is in review, and I will put the link here and under the about tab on the home page once accepted
@@ -29,7 +27,7 @@ At the end of 2020 I joined the Murdoch University Women in STEMM committee and 
 
 ![Photo](/270264139_276532947794271_4594933129942618584_n.jpg)
 
-![Photo](/IMG_4428[2305843009220316488].HEIC)
+![Photo](/IMG_4428[2305843009220316488].jpg)
 
 ###What's to come in 2022
 2022 brings the final year of my PhD, so I am excited about the prospect of completion and moving onto the next chapter of my research career. With that comes manuscripts submissions, conferences (hopefully, the borders are open so I can attend my first overseas conference) and job hunting. This is going to be a huge year!
