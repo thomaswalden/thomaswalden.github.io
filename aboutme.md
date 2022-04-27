@@ -84,8 +84,9 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - Certified Phlabotomist - WA School of Pathology
 
 ### Skills
- - Qualisys Motion Capture Systems
  - R Studio
+ - Qualisys Motion Capture Systems
+ - Visual 3D
  - GitHUB
  - Markdown
 
