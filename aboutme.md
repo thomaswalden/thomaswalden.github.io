@@ -38,6 +38,8 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
 
 ### Publications
+ - **Thomas P. Walden**, Olivier Girard, Brendan R. Scott, Andrew M. Jonson, and Jeremiah J. Peiffer. [Does the Application of Blood Flow Restriction During Walking Exercise Influence the Accuracy of Indirect Calorimetry?](https://www.sciencedirect.com/science/article/pii/S1440244022001074) (2022) Journal of Science and Medicine in Sport.
+
  - **Thomas P. Walden**, Olivier Girard, Alasdair Dempsey, Andrew M. Jonson, Kieran J. Marston, and Brendan R. Scott. [Sessional wok-rate does not affect the magnitude to which simulated hypoxia can augment acute physiological responses during resistance exercise](https://link.springer.com/article/10.1007/s00421-020-04440-3) (2020) European Journal of Applied Physiology.
 
 ### Conference Presentations
