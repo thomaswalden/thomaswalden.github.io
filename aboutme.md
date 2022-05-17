@@ -37,6 +37,10 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
 
  - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
 
+### Funding Received
+ - Australian Government Research Training Program Scheme
+       *$30,000/yr for 3.5 years plus $5,000 research budget*  
+
 ### Publications
  - **Thomas P. Walden**, Olivier Girard, Brendan R. Scott, Andrew M. Jonson, and Jeremiah J. Peiffer. [Does the Application of Blood Flow Restriction During Walking Exercise Influence the Accuracy of Indirect Calorimetry?](https://www.sciencedirect.com/science/article/pii/S1440244022001074) (2022) Journal of Science and Medicine in Sport.
 
