@@ -39,7 +39,6 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
 
 ### Funding Received
  - Australian Government Research Training Program Scheme
-
        *$30,000/yr for 3.5 years plus $5,000 research budget*  
 
 ### Publications
