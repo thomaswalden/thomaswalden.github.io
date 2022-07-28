@@ -50,12 +50,12 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
 ### Conference Presentations
  - Brendan R. Scott (Presenter), Kieran J. Marston, Shaun Teo, Mitchell Forrest, **Thomas P. Walden**, Andrew M. Jonson, Sean Mansfield and Jeremiah J. Peiffer. The intensity of exercise. Is the workrate a useful metric? (ESSA Research to Practice - 2021)
 
- - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Resistance Training in Hypoxia – [A comparison of acute physiological responses when exercising to failure or not.](https://www.researchgate.net/publication/337560911_Resistance_Training_in_Hypoxia_A_comparison_of_acute_physiological_responses_when_exercising_to_failure_or_not) (ASCA Conference - 2019)
+ - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. [Resistance Training in Hypoxia: A Comparison of Acute Physiological Responses When Exercising to Failure or Not.](https://www.researchgate.net/publication/337560911_Resistance_Training_in_Hypoxia_A_comparison_of_acute_physiological_responses_when_exercising_to_failure_or_not) (ASCA Conference - 2019)
  
- - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott.Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG) – 2019)
+ - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG) – 2019)
  
 ### Conference Posters
- - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer. {How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise?] (https://www.researchgate.net/publication/362301370_Blood_Flow_Restriction_Walking_Does_Intensity_Impact_Acute_Physiological_Responses) (Exercise and Sport Science Australia Conference – 2021)
+ - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer. [How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise?] (https://www.researchgate.net/publication/362301370_Blood_Flow_Restriction_Walking_Does_Intensity_Impact_Acute_Physiological_Responses) (Exercise and Sport Science Australia Conference – 2021)
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance. (Exercise and Sport Science Australia Conference – 2021)
 
