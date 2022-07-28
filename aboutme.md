@@ -55,7 +55,7 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG) – 2019)
  
 ### Conference Posters
- - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer. [How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise?] (https://www.researchgate.net/publication/362301370_Blood_Flow_Restriction_Walking_Does_Intensity_Impact_Acute_Physiological_Responses) (Exercise and Sport Science Australia Conference – 2021)
+ - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer. [How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise?](https://www.researchgate.net/publication/362301370_Blood_Flow_Restriction_Walking_Does_Intensity_Impact_Acute_Physiological_Responses) (Exercise and Sport Science Australia Conference – 2021)
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance. (Exercise and Sport Science Australia Conference – 2021)
 
