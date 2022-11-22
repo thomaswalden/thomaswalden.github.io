@@ -90,9 +90,6 @@ Since february 2020, I have been volunteering at the Kulbardi Aboriginal Centre.
  - Exercise and Sport Science Australia (ESSA) Student Member
  - Australian Strength and Conditioning Association (ASCA) Student Member
  - American College of Sports Medicine (ACSM) Student Member
-
-### Career Aspirations and Goals
- - My number one goal is to use my research skills to help as many people enjoy the benefits of exercise
  
 ### Research Interests
  - The Biomechanics of Blood Flow Restricted Walking 
