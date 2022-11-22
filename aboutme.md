@@ -63,6 +63,22 @@ My Ph.D focused on blood flow restricted walking. Specifically, my main research
 
 - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
 
+### Teaching
+As a part of my role as a PhD candidate I conduct lectures, tutorials, and laboratories for current undergraduate students. Within this role, I work closely with the unit coordinator to develop content and teaching aids with the goal to make our units as engaging and inclusive as possible. In addition to teaching, I am responsible for responding to student emails and unit-related administration, assessing student’s written assignments and practical assessments, and developing and grading end-of-semester examinations.
+
+Due to the recent COVID-19 lockdowns, I adapted unit content to be delivered both face to face, as well as through an online teaching system (blackboard collaborate). With the snap lockdowns that we experienced in Western Australia, I had to be ready to teach in person one week and online the next. This meant taking practical hands-on units and being able to deliver them effectively in an online setting. In addition, all in-person assessments and exams needed to be redeveloped so they could also be performed online if needed, while still meeting the requirements of the accrediting body of the Exercise Science degree, Exercise and Sport Science Australia.
+
+   **Teaching Units**
+ - Introduction to Research Methodology 
+ - Advanced Sport and Exercise Psychology
+ - Introduction to Strength and Conditioning
+ - Introduction to Biomechanics
+ - Human Physiology
+ - Exercise Rehabilitation
+
+   **Kulbardi Aboriginal Centre Tutoring**
+   Since the start of 2020, I have been volunteering at the Kulbardi Aboriginal Centre. As a part of this position, I conduct one-on-one and group tutorial sessions in various areas, including Human Physiology, Exercise Physiology, Strength and Conditioning, Statistics, Psychology and Career Development. Due to my ongoing commitment to this program, I was offered a paid position as an Education Leader in 2022.
+
 ### Ph.D Supervisory Team
  - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
  - [Associate Professor Jeremiah Peiffer](http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
