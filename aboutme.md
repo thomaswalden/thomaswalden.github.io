@@ -19,7 +19,7 @@ My Ph.D focused on blood flow restricted walking. Specifically, my main research
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member (2021) 
 
 ### Research Positions
-**Data Analyst** - 2021 to 2022 - Animal Production and Environmental Science – Murdoch University.
+**Data Managment Specialist** - June 2022 to Present - Environmental and Life Sciences – Murdoch University.
  - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
  
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
