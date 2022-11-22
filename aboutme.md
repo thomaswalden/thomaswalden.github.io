@@ -16,14 +16,14 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - [Centre for Healthy Ageing, Murdoch University](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-healthy-ageing)
  - [Centre for Molecular Medicine and Innovative Therapeutics](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-molecular-medicine-and-innovative-therapeutics)
  - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
- - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member 
+ - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member (2021) 
 
 ### Research Positions
- - **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University
-       Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
+**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University
+ - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
- - **Data Analyst** - 2021 to 2022 - Animal Production and Environmental Science – Murdoch University.
-       Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports for individuals within the research group and farmers that provided animals for the research. I was also responsible for teaching R script development to the other PhD students within this research team.
+**Data Analyst** - 2021 to 2022 - Animal Production and Environmental Science – Murdoch University.
+ - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports for individuals within the research group and farmers that provided animals for the research. I was also responsible for teaching R script development to the other PhD students within this research team.
 
 ### Funding Received
  - Australian Government Research Training Program Scheme
