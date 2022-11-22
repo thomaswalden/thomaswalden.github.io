@@ -78,7 +78,7 @@ Due to the recent COVID-19 lockdowns, I adapted unit content to be delivered bot
 
 **Kulbardi Aboriginal Centre Tutoring**
    
-Since the start of 2020, I have been volunteering at the Kulbardi Aboriginal Centre. As a part of this position, I conduct one-on-one and group tutorial sessions in various areas, including Human Physiology, Exercise Physiology, Strength and Conditioning, Statistics, Psychology and Career Development. Due to my ongoing commitment to this program, I was offered a paid position as an Education Leader in 2022.
+Since february 2020, I have been volunteering at the Kulbardi Aboriginal Centre. As a part of this position, I conduct one-on-one and group tutorial sessions in various areas, including Human Physiology, Exercise Physiology, Strength and Conditioning, Statistics, Psychology and Career Development. Due to my ongoing commitment to this program, I was offered a paid position as an Education Leader in 2022.
 
 ### Ph.D Supervisory Team
  - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
