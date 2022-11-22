@@ -18,23 +18,12 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member 
 
-### Ph.D Supervisory Team
- - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
- - [Associate Professor Jeremiah Peiffer](http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
- - [Dr Alasdair Dempsey](http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
- - [Associate Professor Olivier Girard](https://research-repository.uwa.edu.au/en/persons/olivier-girard) - University of Western Australia
+### Research Positions
+ - **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University
+       Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
-### Industry Memberships
- - Exercise and Sport Science Australia (ESSA) Student Member
- - Australian Strength and Conditioning Association (ASCA) Student Member
- - American College of Sports Medicine (ACSM) Student Member
-
-### Awards
-- ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) 
-
-- European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020)
-
- - Murdoch Applied Sport Science Best Conference Presentation Award (2019)
+ - **Data Analyst** - 2021 to 2022 - Animal Production and Environmental Science – Murdoch University.
+       Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports for individuals within the research group and farmers that provided animals for the research. I was also responsible for teaching R script development to the other PhD students within this research team.
 
 ### Funding Received
  - Australian Government Research Training Program Scheme
@@ -66,6 +55,24 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson and Brendan R. Scott. Hypoxic resistance exercise: [How does training to failure or not influence acute physiological responses?](https://www.researchgate.net/publication/337560948_Hypoxic_Resistance_Exercise_How_Does_Training_to_Failure_or_Not_Influence_Acute_Physiological_Responses) (International Conference on Strength Training - 2018)
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. [Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity](https://www.researchgate.net/publication/344606940_Resistance_Exercise_To_Failure_Or_Not_In_Hypoxia_And_Normoxia_Acute_Changes_In_Weight_Lifting_Velocity) (International Conference on Strength Training - 2018)
+
+### Awards
+- ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) 
+
+- European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020)
+
+- Murdoch Applied Sport Science Best Conference Presentation Award (2019)
+
+### Ph.D Supervisory Team
+ - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
+ - [Associate Professor Jeremiah Peiffer](http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
+ - [Dr Alasdair Dempsey](http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
+ - [Associate Professor Olivier Girard](https://research-repository.uwa.edu.au/en/persons/olivier-girard) - University of Western Australia
+
+### Industry Memberships
+ - Exercise and Sport Science Australia (ESSA) Student Member
+ - Australian Strength and Conditioning Association (ASCA) Student Member
+ - American College of Sports Medicine (ACSM) Student Member
 
 ### Career Aspirations and Goals
  - My number one goal is to use my research skills to help as many people enjoy the benefits of exercise
