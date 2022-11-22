@@ -21,6 +21,7 @@ My Ph.D focused on blood flow restricted walking. Specifically, my main research
 ### Research Positions
 **Data Analyst** - 2021 to 2022 - Animal Production and Environmental Science – Murdoch University.
  - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
+ 
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
