@@ -69,12 +69,12 @@ As a part of my role as a PhD candidate I conduct lectures, tutorials, and labor
 Due to the recent COVID-19 lockdowns, I adapted unit content to be delivered both face to face, as well as through an online teaching system (blackboard collaborate). With the snap lockdowns that we experienced in Western Australia, I had to be ready to teach in person one week and online the next. This meant taking practical hands-on units and being able to deliver them effectively in an online setting. In addition, all in-person assessments and exams needed to be redeveloped so they could also be performed online if needed, while still meeting the requirements of the accrediting body of the Exercise Science degree, Exercise and Sport Science Australia.
 
 **Teaching Units**
- - Introduction to Research Methodology 
- - Advanced Sport and Exercise Psychology
- - Introduction to Strength and Conditioning
- - Introduction to Biomechanics
+ - Introduction to Research Methodology
+ - Biomechanics 
+ - Strength and Conditioning
  - Human Physiology
  - Exercise Rehabilitation
+ - Sport and Exercise Psychology 
 
 **Kulbardi Aboriginal Centre Tutoring**
    
