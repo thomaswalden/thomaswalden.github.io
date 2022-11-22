@@ -3,9 +3,9 @@ layout: page
 title: About me
 ---
 
-Hi, my name is Thomas Walden and I am a Ph.D Candidate at Murdoch University in Perth, Western Australia.
+Hi, my name is Thomas Walden and I am a Ph.D Candidate at Murdoch University, Perth. With my PhD in its final stages, I have reloacted (Nov-2022) to Toronto Canada looking to take the next steps in my research career.
 
-My Ph.D focuses on blood flow restricted walking. Specifically, my main research goal is to further understand the prescription parameters and safety elements of blood flow restricted walking. I am on a quest to determine whether blood flow restricted walking is a safe exercise modality for individuals that may already exhibit numerous risk factors for exercise. This would allow increased access to the benefits of exercise, removing a critical barrier to better health, improved fitness, and increased quality of life for all.
+My Ph.D focused on blood flow restricted walking. Specifically, my main research goal was to further understand the prescription parameters and safety elements of blood flow restricted walking. I am on a quest to determine whether blood flow restricted walking is a safe exercise modality for individuals that may already exhibit numerous risk factors for exercise. This would allow increased access to the benefits of exercise, removing a critical barrier to better health, improved fitness, and increased quality of life for all.
 
 ### Degrees
  - Doctor of Philosophy - Exercise Science (2019 - Present)
@@ -19,11 +19,10 @@ My Ph.D focuses on blood flow restricted walking. Specifically, my main research
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member (2021) 
 
 ### Research Positions
-**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University
- - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
-
 **Data Analyst** - 2021 to 2022 - Animal Production and Environmental Science – Murdoch University.
- - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports for individuals within the research group and farmers that provided animals for the research. I was also responsible for teaching R script development to the other PhD students within this research team.
+ - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
+**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
+ - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ### Funding Received
  - Australian Government Research Training Program Scheme
