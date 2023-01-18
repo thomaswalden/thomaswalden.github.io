@@ -5,11 +5,11 @@ subtitle: Perth - Western Australia (2020 to 2022)
 thumbnail-img: /124562746_422269239142332_5024389578401089508_n.jpg
 ---
 
-<div align="justify">From start to finish, this project taught and tested me to no end. Building a house while doing a Ph.D while in the middle of a global pandemic...
+<div align="justify">From start to finish, this project taught and tested me to no end. Building a house while doing a Ph.D, in the middle of a global pandemic...
 
-At the start of 2020, I was one year into my PhD. As any new PhD candidate would be, I poured everything I had into my project. At this point, it was suggested that I find a project/hobby that would take my mind off my PhD, allowing some kind of balance or life normality.
+At the start of 2020, I was one year into my PhD. As any new PhD candidate would be, I was pouring everything I had into my project. At this point, it was suggested that I find a non university related project/hobby that would take my mind off my PhD, allowing some kind of balance or life normality.
 You may not hear this often, but this is where COVID came to help. With a lot of industries struggling with the shutdowns, the state and federal governments in Australia implemented large financial handouts (grants) for those willing to build a new property. I wanted to tap into these grants, and my new project was born.
-Below are some pictures of my project coming together. This endeavour was not without problems or headaches and would not have been possible alone. Thank you to my brother Lewis for jumping into this project with me and my partner Efa for the continued support. I put in some very long hours across teaching, labouring, ubering and, of course my PhD for this to become a reality.</div> 
+Below are some pictures of my project coming together, the finished project and what made this possible. This endeavour was not without problems or headaches and would not have been possible alone. Thank you to my brother Lewis for jumping into this project with me and my partner Efa for the continued support. I put in some very long hours across teaching, labouring, ubering and, of course my PhD for this to become a reality.</div> 
 
 ## Building in Progress
 
