@@ -5,15 +5,15 @@ subtitle: Perth - Western Australia (2020 to 2022)
 thumbnail-img: /124562746_422269239142332_5024389578401089508_n.jpg
 ---
 
-![Photo](/105564667_786079755259946_1250173801735164710_n.jpg) ![Photo](/Front 2.jpg)
-
 From start to finish, this project taught and tested me to no end. Building a house while doing a Ph.D while in the middle of a global pandemic...
 
 At the start of 2020, I was one year into my PhD. As any new PhD candidate would be, I poured everything I had into my project. At this point, it was suggested that I find a project/hobby that would take my mind off my PhD, allowing some kind of balance or life normality.
 You may not hear this often, but this is where COVID came to help. With a lot of industries struggling with the shutdowns, the state and federal governments in Australia implemented large financial handouts (grants) for those willing to build a new property. I wanted to tap into these grants, and my new project was born.
 Below are some pictures of my project coming together. This endeavour was not without problems or headaches and would not have been possible alone. Thank you to my brother Lewis for jumping into this project with me and my partner Efa for the continued support. I put in some very long hours across teaching, labouring, ubering and, of course my PhD for this to become a reality. 
 
-**Building in Progress**
+##Building in Progress
+
+![Photo](/105564667_786079755259946_1250173801735164710_n.jpg)
 
 ![Photo](/137106982_4857349797671017_9107793643414803907_n.jpg)
 
@@ -31,21 +31,21 @@ Below are some pictures of my project coming together. This endeavour was not wi
 
 ![Photo](/315090599_661596038851821_4082097955085417043_n.jpg)
 
-**Finished Product**
+##Finished Product
 
 ![Photo](/Front.jpg)
 
-![Photo](/Front 2.jpg)
+![Photo](/Front2.jpg)
 
 ![Photo](/Kitchen.jpg)
 
-![Photo](/Main Room.jpg)
+![Photo](/MainRoom.jpg)
 
-![Photo](/Main room2.jpg)
+![Photo](/Mainroom2.jpg)
 
 ![Photo](/Bathroom.jpg)
 
-**What it Took to Make This Possible**
+##What it Took to Make This Possible
 
 ![Photo](/326213423_648555613690241_267705290976636341_n.jpg)
 
