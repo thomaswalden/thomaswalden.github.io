@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on spinal cord rehabilitation. I completed my Ph.D (currently in review) at Murdoch University, focusing mainly on Biomechanics and Physiology - "Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults". My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to exercise's health and fitness benefits.
+Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on spinal cord rehabilitation. I completed my Ph.D (currently in review) at Murdoch University, focusing on Biomechanics and Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to exercise's health and fitness benefits.
 
 ### Research Positions
 **Postdoctoral Research Fellow** - January 2023 to Present - KITE Research Institute - University Health Network.
@@ -14,7 +14,7 @@ Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the Uni
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ### Degrees
- - Doctor of Philosophy - Exercise Science (In Review)
+ - Doctor of Philosophy - *Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults* (In Review)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
