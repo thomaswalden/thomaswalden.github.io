@@ -11,7 +11,7 @@ At the start of 2020, I was one year into my PhD. As any new PhD candidate would
 You may not hear this often, but this is where COVID came to help. With a lot of industries struggling with the shutdowns, the state and federal governments in Australia implemented large financial handouts (grants) for those willing to build a new property. I wanted to tap into these grants, and my new project was born.
 Below are some pictures of my project coming together. This endeavour was not without problems or headaches and would not have been possible alone. Thank you to my brother Lewis for jumping into this project with me and my partner Efa for the continued support. I put in some very long hours across teaching, labouring, ubering and, of course my PhD for this to become a reality. 
 
-##Building in Progress
+## Building in Progress
 
 ![Photo](/105564667_786079755259946_1250173801735164710_n.jpg)
 
@@ -31,7 +31,7 @@ Below are some pictures of my project coming together. This endeavour was not wi
 
 ![Photo](/315090599_661596038851821_4082097955085417043_n.jpg)
 
-##Finished Product
+## Finished Product
 
 ![Photo](/Front.jpg)
 
@@ -45,7 +45,7 @@ Below are some pictures of my project coming together. This endeavour was not wi
 
 ![Photo](/Bathroom.jpg)
 
-##What it Took to Make This Possible
+## What it Took to Make This Possible
 
 ![Photo](/326213423_648555613690241_267705290976636341_n.jpg)
 
