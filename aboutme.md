@@ -2,13 +2,19 @@
 layout: page
 title: About me
 ---
+Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on spinal cord rehabilitation. I completed my Ph.D (currently in review) at Murdoch University, focusing mainly on Biomechanics and Physiology - "Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults". My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to exercise's health and fitness benefits.
 
-Hi, my name is Thomas Walden and I am a Ph.D Candidate at Murdoch University, Perth. With my PhD in its final stages, I have reloacted (Nov-2022) to Toronto Canada looking to take the next steps in my research career.
+### Research Positions
+**Postdoctoral Research Fellow** - January 2023 to Present - KITE Research Institute - University Health Network.
 
-My Ph.D focused on blood flow restricted walking. Specifically, my main research goal was to further understand the prescription parameters and safety elements of blood flow restricted walking. I am on a quest to determine whether blood flow restricted walking is a safe exercise modality for individuals that may already exhibit numerous risk factors for exercise. This would allow increased access to the benefits of exercise, removing a critical barrier to better health, improved fitness, and increased quality of life for all.
+**Data Managment Specialist** - June 2022 to January 2023 - Environmental and Life Sciences – Murdoch University.
+ - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
+ 
+**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
+ - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ### Degrees
- - Doctor of Philosophy - Exercise Science (2019 - Present)
+ - Doctor of Philosophy - Exercise Science (In Review)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
@@ -17,13 +23,6 @@ My Ph.D focused on blood flow restricted walking. Specifically, my main research
  - [Centre for Molecular Medicine and Innovative Therapeutics](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-molecular-medicine-and-innovative-therapeutics)
  - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
  - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member (2021) 
-
-### Research Positions
-**Data Managment Specialist** - June 2022 to Present - Environmental and Life Sciences – Murdoch University.
- - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
- 
-**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
- - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ### Funding Received
  - Australian Government Research Training Program Scheme
