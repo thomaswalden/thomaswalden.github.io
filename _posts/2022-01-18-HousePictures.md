@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ph.D Side Project
+title: PhD Side Project
 subtitle: Perth - Western Australia (2020 to 2022)
 thumbnail-img: /124562746_422269239142332_5024389578401089508_n.jpg
 ---
