@@ -33,7 +33,7 @@ Below are some pictures of my project coming together. This endeavour was not wi
 
 ## Finished Product
 
-![Photo](/Front.jpg)
+![Photo](/Front1.jpg)
 
 ![Photo](/Front2.jpg)
 
