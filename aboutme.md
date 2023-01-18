@@ -3,6 +3,7 @@ layout: page
 title: About me
 ---
 Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on spinal cord rehabilitation. 
+
 I completed my Ph.D (currently in review) at Murdoch University, focusing on Biomechanics and Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to exercise's health and fitness benefits.
 
 ### Research Positions
