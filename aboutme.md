@@ -21,12 +21,6 @@ title: About me
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
-### Affiliations
- - [Centre for Healthy Ageing, Murdoch University](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-healthy-ageing)
- - [Centre for Molecular Medicine and Innovative Therapeutics](https://www.murdoch.edu.au/research/hfi/our-centres/centre-for-molecular-medicine-and-innovative-therapeutics)
- - [Enviromental Physiology Special Interest Group](https://www.oliviergirard.com/epsig-home)
- - [Murdoch University Women in STEM](https://www.murdoch.edu.au/news/articles/exceptional-research-by-women-in-stem-showcased) - Committee Member (2021) 
-
 ### Funding Received
  - Australian Government Research Training Program Scheme
        - *$30,000/yr for 3.5 years plus $5,000 research budget*  
@@ -85,12 +79,6 @@ Due to the recent COVID-19 lockdowns, I adapted unit content to be delivered bot
 **Kulbardi Aboriginal Centre Tutoring**
    
 Since february 2020, I have been volunteering at the Kulbardi Aboriginal Centre. As a part of this position, I conduct one-on-one and group tutorial sessions in various areas, including Human Physiology, Exercise Physiology, Strength and Conditioning, Statistics, Psychology and Career Development. Due to my ongoing commitment to this program, I was offered a paid position as an Education Leader in 2022.
-
-### Ph.D Supervisory Team
- - [Associate Professor Timothy FairChild](http://profiles.murdoch.edu.au/myprofile/timothy-fairchild/) - Murdoch Universty
- - [Associate Professor Jeremiah Peiffer](http://profiles.murdoch.edu.au/myprofile/jeremiah-peiffer/) - Murdoch University
- - [Dr Alasdair Dempsey](http://profiles.murdoch.edu.au/myprofile/alasdair-dempsey/) - Murdoch University
- - [Associate Professor Olivier Girard](https://research-repository.uwa.edu.au/en/persons/olivier-girard) - University of Western Australia
 
 ### Industry Memberships
  - Exercise and Sport Science Australia (ESSA) Student Member
