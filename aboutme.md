@@ -26,7 +26,7 @@ title: About me
        - *$30,000/yr for 3.5 years plus $5,000 research budget*  
 
 ### Publications
- - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. Blood Flow Restricted Walking Alters Gait Kinematics (2023) European Journal of Sport Science.
+ - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.tandfonline.com/doi/full/10.1080/17461391.2023.2194274?scroll=top&needAccess=true&role=tab) (2023) European Journal of Sport Science.
 
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue. (2023) Research Quarterly for Exercise and Sport.
 
