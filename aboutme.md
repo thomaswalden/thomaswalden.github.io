@@ -8,7 +8,7 @@ title: About me
 <div align="justify">I completed my Ph.D (currently in review) at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
 
 ### Research Positions
-**Postdoctoral Research Fellow** - January 2023 to Present - KITE Research Institute - University Health Network.
+[**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
 
 **Data Managment Specialist** - June 2022 to January 2023 - Environmental and Life Sciences – Murdoch University.
  - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
