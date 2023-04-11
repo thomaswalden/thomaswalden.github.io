@@ -26,9 +26,9 @@ title: About me
        - *$30,000/yr for 3.5 years plus $5,000 research budget*  
 
 ### Publications
- - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.tandfonline.com/doi/full/10.1080/17461391.2023.2194274?scroll=top&needAccess=true&role=tab) (2023) European Journal of Sport Science.
+ - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. [Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue](https://www.tandfonline.com/doi/full/10.1080/02701367.2023.2193232) (2023) Research Quarterly for Exercise and Sport.
 
- - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue. (2023) Research Quarterly for Exercise and Sport.
+ - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.tandfonline.com/doi/full/10.1080/17461391.2023.2194274?scroll=top&needAccess=true&role=tab) (2023) European Journal of Sport Science.
 
  - **Thomas P. Walden**, Olivier Girard, Brendan R. Scott, Andrew M. Jonson, and Jeremiah J. Peiffer. [Low- to Moderate-intensity Blood Flow Restricted Walking is not an Acute Wquivalent for Unrestricted Jogging in Young Active Adults.](https://www.tandfonline.com/doi/full/10.1080/17461391.2022.2107436) (2022) European Journal of Sport Science.
 
