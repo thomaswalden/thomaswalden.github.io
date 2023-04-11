@@ -16,7 +16,7 @@ title: About me
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
-### Degrees
+### Qualifications
  - Doctor of Philosophy - *Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults* (In Review)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
