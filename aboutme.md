@@ -5,7 +5,7 @@ title: About me
 <div align="justify">Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on movement rehabilitation for individuals with spinal cord injuries.</div>
 
 
-<div align="justify">I completed my Ph.D at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - [Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891). My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
+<div align="justify">I completed my Ph.D at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
 
 ### Research Positions
 [**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
@@ -17,7 +17,7 @@ title: About me
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ### Qualifications
- - **Doctor of Philosophy (PhD)** - *Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults* (In Review)
+ - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*] (https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
