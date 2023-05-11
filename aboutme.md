@@ -17,7 +17,7 @@ title: About me
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ### Qualifications
- - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*] (https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891)
+ - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
