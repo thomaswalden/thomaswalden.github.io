@@ -44,6 +44,10 @@ title: About me
  - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG) – 2019)
  
 ### Conference Posters
+ - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.researchgate.net/publication/370632018_Blood_Flow_Restricted_Walking_Alters_Gait_Kinematics) (International Conference on Aging, Innovation and Rehabilitation - 2023)
+
+ - Philemon Tsang, Wagner H. Souza, **Thomas P. Walden**, Masae Miyatani, B. Cathy Craven. [Methods for Exploring the Effects of Exoskeleton Training on Arterial Stiffness](https://www.researchgate.net/publication/370665909_Methods_for_Exploring_the_Effects_of_Exoskeleton_Training_on_Arterial_Stiffness) (International Conference on Aging, Innovation and Rehabilitation - 2023)
+
  - **Thomas P. Walden**, Olivier Girard, Andrew M. Jonson, Brendan R. Scott and Jeremiah J. Peiffer. [How do different walking speed and cuff pressure combinations alter physiological responses during blood flow restricted exercise?](https://www.researchgate.net/publication/362301370_Blood_Flow_Restriction_Walking_Does_Intensity_Impact_Acute_Physiological_Responses) (Exercise and Sport Science Australia Conference – 2021)
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance. (Exercise and Sport Science Australia Conference – 2021)
