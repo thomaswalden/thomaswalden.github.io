@@ -85,8 +85,6 @@ Due to the recent COVID-19 lockdowns, I adapted unit content to be delivered bot
 Since february 2020, I have been volunteering at the Kulbardi Aboriginal Centre. As a part of this position, I conduct one-on-one and group tutorial sessions in various areas, including Human Physiology, Exercise Physiology, Strength and Conditioning, Statistics, Psychology and Career Development. Due to my ongoing commitment to this program, I was offered a paid position as an Education Leader in 2022.
 
 ### Industry Memberships
- - Exercise and Sport Science Australia (ESSA) Student Member
- - Australian Strength and Conditioning Association (ASCA) Student Member
  - American College of Sports Medicine (ACSM) Student Member
  
 ### Research Interests
@@ -108,9 +106,3 @@ Since february 2020, I have been volunteering at the Kulbardi Aboriginal Centre.
  - Visual 3D
  - GitHUB
  - Markdown
-
-### Certifications
- - Senior First Aid and CPR
- - Radiation Safety Certificate
- - Certified Phlabotomist - WA School of Pathology
-
