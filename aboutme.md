@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
----
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GPRZNYXWBW"></script>
 <script>
@@ -12,6 +11,7 @@ title: About me
   gtag('config', 'G-GPRZNYXWBW');
 </script>
 
+---
 <div align="justify">Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on movement rehabilitation for individuals with spinal cord injuries.</div>
 
 
