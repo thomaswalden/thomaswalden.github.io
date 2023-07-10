@@ -33,4 +33,4 @@ Some other great summer activities are going to a Baseball game at the Rogers Ce
 
 ![Photo](/20230708_123516.jpg)
 
-Look forward to many more adventures here in Canada.
+Looking forward to many more adventures here in Canada.
