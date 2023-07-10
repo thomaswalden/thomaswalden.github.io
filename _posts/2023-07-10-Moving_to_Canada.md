@@ -29,8 +29,8 @@ thumbnail-img: /20221127_174813.jpg
 
 Some other great summer activities are going to a Baseball game at the Rogers Centre (the footlong hotdogs are a hit), and Sailing out on the Lake.
 
-![Photo](/20230708_123516.jpg)
-
 ![Photo](/IMG-20230428-WA0002.jpg)
+
+![Photo](/20230708_123516.jpg)
 
 Look forward to many more adventures here in Canada.
