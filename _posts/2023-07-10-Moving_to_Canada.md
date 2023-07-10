@@ -7,7 +7,9 @@ thumbnail-img: /20221127_174813.jpg
 
 <div align="justify"> With my PhD coming to a close at the end of 2022, my partner and I made the big decision to move to Canada.
 
-<div align="justify"> The hardest part was adapting to the cold weather, from 35 to 40 degrees Celsius in Perth to -10 degrees Celsius in Toronto. The first purchases were a big coat, warm boots and gloves! Below are some pictures of the winter.
+<div align="justify"> The hardest part was adapting to the cold weather, from 35 to 40 degrees Celsius in Perth to -10 degrees Celsius in Toronto. The first purchases were a big coat, warm boots and gloves! 
+
+## Below are some pictures of the winter.
 
 ![Photo](/20221116_073528.jpg)
 
