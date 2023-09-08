@@ -69,6 +69,10 @@ title: About me
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. [Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity](https://www.researchgate.net/publication/344606940_Resistance_Exercise_To_Failure_Or_Not_In_Hypoxia_And_Normoxia_Acute_Changes_In_Weight_Lifting_Velocity) (International Conference on Strength Training - 2018)
 
 ### Awards
+- CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023)
+  
+- CSCIRA 10th National Spinal Cord Injury Conference - 3rd Place, Student Abstract Award (2023)
+  
 - ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) 
 
 - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020)
