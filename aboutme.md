@@ -26,6 +26,10 @@ title: About me
        - *$30,000/yr for 3.5 years plus $5,000 research budget*  
 
 ### Publications
+ - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
+
+ - Brendan R. Scott, Kieran J. Marston, Shaun Y.M. Teo, Mitchel R.L. Forrest, Andrew M. Jonson, **Thomas P. Walden**, Brook Galna, and Jeremiah J. Peiffer. The Intensity of a Resistance Exercise Session Can be Quantified by the Work Rate of Exercise (2023) PLOS ONE.
+
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. [Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue](https://www.tandfonline.com/doi/full/10.1080/02701367.2023.2193232) (2023) Research Quarterly for Exercise and Sport.
 
  - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.tandfonline.com/doi/full/10.1080/17461391.2023.2194274?scroll=top&needAccess=true&role=tab) (2023) European Journal of Sport Science.
@@ -37,11 +41,15 @@ title: About me
  - **Thomas P. Walden**, Olivier Girard, Alasdair Dempsey, Andrew M. Jonson, Kieran J. Marston, and Brendan R. Scott. [Sessional wok-rate does not affect the magnitude to which simulated hypoxia can augment acute physiological responses during resistance exercise](https://link.springer.com/article/10.1007/s00421-020-04440-3) (2020) European Journal of Applied Physiology.
 
 ### Conference Presentations
- - Brendan R. Scott (Presenter), Kieran J. Marston, Shaun Teo, Mitchell Forrest, **Thomas P. Walden**, Andrew M. Jonson, Sean Mansfield and Jeremiah J. Peiffer. The intensity of exercise. Is the workrate a useful metric? (ESSA Research to Practice - 2021)
+ - **Thomas P. Walden** (Presenter), Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 2nd Place - Postdoctoral Award Catagory
+
+ - Shajaky Parameswaran (Presenter), **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 3rd Place - Student Award Catagory
+
+ - Brendan R. Scott (Presenter), Kieran J. Marston, Shaun Teo, Mitchell Forrest, **Thomas P. Walden**, Andrew M. Jonson, Sean Mansfield and Jeremiah J. Peiffer. The intensity of exercise. Is the Work-rate a Useful Metric? (ESSA Research to Practice - 2021)
 
  - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. [Resistance Training in Hypoxia: A Comparison of Acute Physiological Responses When Exercising to Failure or Not.](https://www.researchgate.net/publication/337560911_Resistance_Training_in_Hypoxia_A_comparison_of_acute_physiological_responses_when_exercising_to_failure_or_not) (ASCA Conference - 2019)
  
- - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG) – 2019)
+ - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG – 2019)
  
 ### Conference Posters
  - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.researchgate.net/publication/370632018_Blood_Flow_Restricted_Walking_Alters_Gait_Kinematics) (International Conference on Aging, Innovation and Rehabilitation - 2023)
