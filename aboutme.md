@@ -22,7 +22,10 @@ title: About me
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
 ### Funding Received
- - Australian Government Research Training Program Scheme
+ - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
+       - *$80,000/yr for 2 years*
+    
+ - Australian Government Research Training Program Scheme (2019 - 2022)
        - *$30,000/yr for 3.5 years plus $5,000 research budget*  
 
 ### Publications
