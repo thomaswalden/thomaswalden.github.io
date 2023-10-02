@@ -5,12 +5,12 @@ title: About me
 <div align="justify">Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on movement rehabilitation for individuals with spinal cord injuries.</div>
 
 
-<div align="justify">I completed my Ph.D at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals that already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
+<div align="justify">I completed my Ph.D at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals who already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
 
 ### Research Positions
 [**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
 
-**Data Managment Specialist** - June 2022 to January 2023 - Environmental and Life Sciences – Murdoch University.
+**Data Management Specialist** - June 2022 to January 2023 - Environmental and Life Sciences – Murdoch University.
  - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
  
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
@@ -23,12 +23,10 @@ title: About me
  
 ### Funding Received
  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
-
-   - *$80,000/yr for 2 years*
+   - _*$80,000/yr for 2 years*_
     
  - Australian Government Research Training Program Scheme (2019 - 2022)
-
-   - *$30,000/yr for 3.5 years plus $5,000 research budget*  
+   - *_$30,000/yr for 3.5 years plus $5,000 research budget_*  
 
 ### Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
