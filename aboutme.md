@@ -23,7 +23,7 @@ title: About me
  
 ### Funding Received
  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
-   - _*$80,000/yr for 2 years*_
+   - _*$80,000 across 2 years*_
     
  - Australian Government Research Training Program Scheme (2019 - 2022)
    - *_$30,000/yr for 3.5 years plus $5,000 research budget_*  
