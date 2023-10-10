@@ -23,10 +23,10 @@ title: About me
  
 ### Funding Received
  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
-   - _*$80,000 across 2 years*_
+   - <u>$80,000 across 2 years<u>
     
  - Australian Government Research Training Program Scheme (2019 - 2022)
-   - *_$30,000/yr for 3.5 years plus $5,000 research budget_*  
+   - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
 
 ### Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
