@@ -11,7 +11,7 @@ title: About me
 [**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
 
 **Data Management Specialist** - June 2022 to Present - Environmental and Life Sciences – Murdoch University.
- - Within this position, my primary role was to develop R scripts that would handle large data sets, run analyses, and produce reports. I was also responsible for teaching R script development to the PhD students within this research team.
+ - Within this position, my primary role is to develop R scripts that can handle large data sets, run analyses, and produce reports. I am also responsible for teaching R script development to the PhD students within this research team.
  
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
