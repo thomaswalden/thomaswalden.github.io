@@ -29,9 +29,9 @@ title: About me
    - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
 
 ### Publications
- - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
+ - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
 
- - Brendan R. Scott, Kieran J. Marston, Shaun Y.M. Teo, Mitchel R.L. Forrest, Andrew M. Jonson, **Thomas P. Walden**, Brook Galna, and Jeremiah J. Peiffer. The Intensity of a Resistance Exercise Session Can be Quantified by the Work Rate of Exercise (2023) PLOS ONE.
+ - Brendan R. Scott, Kieran J. Marston, Shaun Y.M. Teo, Mitchel R.L. Forrest, Andrew M. Jonson, **Thomas P. Walden**, Brook Galna, and Jeremiah J. Peiffer. [The Intensity of a Resistance Exercise Session Can be Quantified by the Work Rate of Exercise] (https://www.proquest.com/docview/2873244351/fulltextPDF/9859ADFEF4E54DAAPQ/1?accountid=47695) (2023) PLOS ONE.
 
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. [Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue](https://www.tandfonline.com/doi/full/10.1080/02701367.2023.2193232) (2023) Research Quarterly for Exercise and Sport.
 
