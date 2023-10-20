@@ -45,7 +45,7 @@ title: About me
  - Office of Research and Trainees, University Health Network – Travel Grant (2024).
     - <u>$500<u>
 
-## Publications
+## Peer-Reviewed Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
 
  - Brendan R. Scott, Kieran J. Marston, Shaun Y.M. Teo, Mitchel R.L. Forrest, Andrew M. Jonson, **Thomas P. Walden**, Brook Galna, and Jeremiah J. Peiffer. [The Intensity of a Resistance Exercise Session Can be Quantified by the Work Rate of Exercise.](https://www.proquest.com/docview/2873244351/fulltextPDF/9859ADFEF4E54DAAPQ/1?accountid=47695) (2023) PLOS ONE.
