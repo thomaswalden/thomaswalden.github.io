@@ -38,12 +38,10 @@ title: About me
  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
    - <u>$80,000 across 2 years<u>
 ### Pending Peer Review
- – Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
+ - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
    - <u>$70,000 per year for 2 years<u>
-   
- – Canadian Institutes of Health Research – Travel Grant (2024).
+ - Canadian Institutes of Health Research – Travel Grant (2024).
    - <u>$2000<u>
-
  - Office of Research and Trainees, University Health Network – Travel Grant (2024).
     - <u>$500<u>
 
