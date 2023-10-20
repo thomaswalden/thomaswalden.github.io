@@ -22,32 +22,32 @@ title: About me
  
 ## Awards and Honors
 - **International**
- - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
+  - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
  2020 - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
 
 - **National**
- - ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) - Invited to give Podium Presentation (Speaker: Andrew Jonson)
+  - ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) - Invited to give Podium Presentation (Speaker: Andrew Jonson)
 
 - **Local**
-- Australian Government Research Training Program Scheme (2019 - 2022)
-   - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
-- Murdoch Applied Sport Science Best Conference Presentation Award (2019) - $200 prize
+  - Australian Government Research Training Program Scheme (2019 - 2022)
+    - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
+  - Murdoch Applied Sport Science Best Conference Presentation Award (2019) - $200 prize
 
 - **Mentee Awards**
- - CSCIRA 10th National Spinal Cord Injury Conference - 3rd Place, Student Abstract Award (2023) - Invited to give Podium Presentation (Speaker: Shajaky Parameswaran)
+  - CSCIRA 10th National Spinal Cord Injury Conference - 3rd Place, Student Abstract Award (2023) - Invited to give Podium Presentation (Speaker: Shajaky Parameswaran)
 
 ## Research Support Funding
 - **Peer-Reviewed Funding**
- - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
-   - <u>$80,000 across 2 years<u>
+  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
+    - <u>$80,000 across 2 years<u>
 
 - **Pending Peer Review**
- - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
-   - <u>$70,000 per year for 2 years<u>
- - Canadian Institutes of Health Research – Travel Grant (2024).
-   - <u>$2000<u>
- - Office of Research and Trainees, University Health Network – Travel Grant (2024).
-    - <u>$500<u>
+  - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
+    - <u>$70,000 per year for 2 years<u>
+  - Canadian Institutes of Health Research – Travel Grant (2024).
+    - <u>$2000<u>
+  - Office of Research and Trainees, University Health Network – Travel Grant (2024).
+     - <u>$500<u>
 
 ## Peer-Reviewed Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
