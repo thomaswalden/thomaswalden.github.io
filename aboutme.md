@@ -39,13 +39,13 @@ title: About me
    - <u>$80,000 across 2 years<u>
 ### Pending Peer Review
  – Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
-   - <u>*$70,000 per year for 2 years*<u>
+   - <u>$70,000 per year for 2 years<u>
    
  – Canadian Institutes of Health Research – Travel Grant (2024).
-   - <u>*$2000*<u>
+   - <u>$2000<u>
 
  - Office of Research and Trainees, University Health Network – Travel Grant (2024).
-    - <u>*$500*<u>
+    - <u>$500<u>
 
 ## Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
