@@ -40,8 +40,10 @@ title: About me
 ### Pending Peer Review
 2023 – 2025 – Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support.
    - <u>$70,000 per year for 2 years<u>
+   
 2024 – Canadian Institutes of Health Research – Travel Grant.
    - <u>$2000<u>
+   
 2024 - Office of Research and Trainees, University Health Network – Travel Grant.
    - <u>$500<u>
 
