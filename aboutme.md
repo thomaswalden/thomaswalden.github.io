@@ -7,26 +7,43 @@ title: About me
 
 <div align="justify">I completed my Ph.D at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals who already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
 
-### Research Positions
-[**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
-
+### Research Employment
 **Data Management Specialist** - June 2022 to Present - Environmental and Life Sciences – Murdoch University.
  - Within this position, my primary role is to develop R scripts that can handle large data sets, run analyses, and produce reports. I am also responsible for teaching R script development to the PhD students within this research team.
  
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
-### Qualifications
+### Education
+ - [**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
  - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
-### Funding Received
+### Awards and Honors
+## International
+ - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
+ 2020 - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
+## National
+ - ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) - Invited to give Podium Presentation (Speaker: Andrew Jonson)
+## Local
+- Australian Government Research Training Program Scheme (2019 - 2022)
+   - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
+- Murdoch Applied Sport Science Best Conference Presentation Award (2019) - $200 prize
+## Mentee Awards
+ - CSCIRA 10th National Spinal Cord Injury Conference - 3rd Place, Student Abstract Award (2023) - Invited to give Podium Presentation (Speaker: Shajaky Parameswaran)
+
+### Research Support Funding
+## Peer-Reviewed Funding
  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
    - <u>$80,000 across 2 years<u>
-    
- - Australian Government Research Training Program Scheme (2019 - 2022)
-   - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
+## Pending Peer Review
+2023 – 2025 – Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support.
+   - <u>$70,000 per year for 2 years<u>
+2024 – Canadian Institutes of Health Research – Travel Grant.
+   - <u>$2000<u>
+2024 - Office of Research and Trainees, University Health Network – Travel Grant.
+   - <u>$500<u>
 
 ### Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
@@ -71,16 +88,6 @@ title: About me
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. [Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity](https://www.researchgate.net/publication/344606940_Resistance_Exercise_To_Failure_Or_Not_In_Hypoxia_And_Normoxia_Acute_Changes_In_Weight_Lifting_Velocity) (International Conference on Strength Training - 2018)
 
-### Awards
-- CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023)
-  
-- CSCIRA 10th National Spinal Cord Injury Conference - 3rd Place, Student Abstract Award (2023)
-  
-- ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) 
-
-- European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020)
-
-- Murdoch Applied Sport Science Best Conference Presentation Award (2019)
 
 ### Teaching
 As a part of my role as a PhD candidate I conduct lectures, tutorials, and laboratories for current undergraduate students. Within this role, I work closely with the unit coordinator to develop content and teaching aids with the goal to make our units as engaging and inclusive as possible. In addition to teaching, I am responsible for responding to student emails and unit-related administration, assessing student’s written assignments and practical assessments, and developing and grading end-of-semester examinations.
