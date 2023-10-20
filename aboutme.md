@@ -21,23 +21,23 @@ title: About me
  - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
  
 ## Awards and Honors
-### International
+**International**
  - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
  2020 - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
-### National
+**National**
  - ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) - Invited to give Podium Presentation (Speaker: Andrew Jonson)
-### Local
+**Local**
 - Australian Government Research Training Program Scheme (2019 - 2022)
    - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
 - Murdoch Applied Sport Science Best Conference Presentation Award (2019) - $200 prize
-### Mentee Awards
+**Mentee Awards**
  - CSCIRA 10th National Spinal Cord Injury Conference - 3rd Place, Student Abstract Award (2023) - Invited to give Podium Presentation (Speaker: Shajaky Parameswaran)
 
 ## Research Support Funding
-### Peer-Reviewed Funding
+**Peer-Reviewed Funding**
  - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
    - <u>$80,000 across 2 years<u>
-### Pending Peer Review
+**Pending Peer Review**
  - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
    - <u>$70,000 per year for 2 years<u>
  - Canadian Institutes of Health Research – Travel Grant (2024).
