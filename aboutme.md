@@ -23,7 +23,7 @@ title: About me
 ## Awards and Honors
 - **International**
   - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
- 2020 - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
+  - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
 
 - **National**
   - ESSA Research to Practice - Poster Presentation Award Finalist - Effects of hypoxia during resistance exercise on post-exercise neuromuscular performance (2021) - Invited to give Podium Presentation (Speaker: Andrew Jonson)
