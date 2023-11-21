@@ -15,9 +15,9 @@ title: About me
 
 ## Education
  - [**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
- - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891)
+ - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891) (Feb 2019 - Dec 2022)
  - Sport and Exercise Science - First Class Honours (2018)
- - Bachelor of Science - Human Movement and Sport and Health Science - Murdoch University (2015 - 2017)
+ - Bachelor of Science - Human Movement and Sport and Health Science (2015 - 2017)
  
 ## Awards and Honors
 - **International**
