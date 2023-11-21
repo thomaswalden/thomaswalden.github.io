@@ -64,7 +64,7 @@ title: About me
 ## Published Conference Abstracts
  - **Thomas P. Walden**, Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. [How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation?](https://meridian.allenpress.com/tscir/issue/29/suppl)(Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
 
- - Shajaky Parameswaran, **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury? (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
+ - Shajaky Parameswaran, **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. [How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury?](https://meridian.allenpress.com/tscir/issue/29/suppl) (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
 
 ## Conference Presentations
  - **Thomas P. Walden** (Presenter), Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 2nd Place - Postdoctoral Award Catagory
