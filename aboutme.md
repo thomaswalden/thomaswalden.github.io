@@ -2,10 +2,10 @@
 layout: page
 title: About me
 ---
-<div align="justify">Hi, my name is Thomas Walden, and I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on movement rehabilitation for individuals with spinal cord injuries.</div>
+<div align="justify">Hi, my name is Thomas Walden. I am a Postdoctoral Research Fellow at the University Health Network, Toronto. My position is within the KITE Research Institute at the Lyndhurst Centre, focusing on movement rehabilitation for individuals with a spinal cord injury.</div>
 
 
-<div align="justify">I completed my Ph.D at Murdoch University, focusing on Biomechanics and Exercise Physiology. Thesis Title - Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults. My thesis looked to add further information to the blood flow restriction field, highlighting potential safety concerns that could arise when exercise professionals prescribe the technique for individuals who already exhibit numerous risk factors for exercise. I am passionate about making exercise as inclusive as possible. With that, my main goal in research is to investigate all avenues that can help remove barriers, allowing all individuals access to the health and fitness benefits that exercise can offer.</div>
+<div align="justify">I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western Australia. My primary Ph.D. research investigated the biomechanical and physiological implications of lower limb blood flow restriction during treadmill walking. Relocating to Toronto in November 2022, I secured a postdoctoral research fellowship within the Craven Lab at Lyndhurst Rehabilitation Centre. Currently, my research focuses on implementing exoskeletons as a rehabilitation tool for individuals with an SCI/D, understanding independence post-rehabilitation discharge for individuals living with an SCI/D, and developing wearable technology to track movement patterns in older adults living with osteoporosis as a falls prevention strategy. My primary career goal is to develop novel training interventions to help remove participation barriers, allowing all individuals access to exercise’s health and fitness benefits.</div>
 
 ## Research Employment
 **Data Management Specialist** - June 2022 to Present - Environmental and Life Sciences – Murdoch University.
@@ -44,8 +44,6 @@ title: About me
 - **Pending Peer Review**
   - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
     - <u>$70,000 per year for 2 years<u>
-  - Canadian Institutes of Health Research – Travel Grant (2024).
-    - <u>$2000<u>
   - Office of Research and Trainees, University Health Network – Travel Grant (2024).
      - <u>$500<u>
 
@@ -64,11 +62,18 @@ title: About me
 
  - **Thomas P. Walden**, Olivier Girard, Alasdair Dempsey, Andrew M. Jonson, Kieran J. Marston, and Brendan R. Scott. [Sessional wok-rate does not affect the magnitude to which simulated hypoxia can augment acute physiological responses during resistance exercise](https://link.springer.com/article/10.1007/s00421-020-04440-3) (2020) European Journal of Applied Physiology.
 
+## Published Conference Abstracts
+ - **Thomas P. Walden**, Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation? (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
+
+ - Shajaky Parameswaran, **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury? (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
+
 ## Conference Presentations
  - **Thomas P. Walden** (Presenter), Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 2nd Place - Postdoctoral Award Catagory
 
  - Shajaky Parameswaran (Presenter), **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 3rd Place - Student Award Catagory
 
+ - Philemon Tsang, Wagner H. Souza, **Thomas P. Walden**, Masae Miyatani, B. Cathy Craven. Methods for Exploring the Effects of Exoskeleton Training on Arterial Stiffness (University Health Network Postdoctoral Symposium - 2023)
+ 
  - Brendan R. Scott (Presenter), Kieran J. Marston, Shaun Teo, Mitchell Forrest, **Thomas P. Walden**, Andrew M. Jonson, Sean Mansfield and Jeremiah J. Peiffer. The intensity of exercise. Is the Work-rate a Useful Metric? (ESSA Research to Practice - 2021)
 
  - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. [Resistance Training in Hypoxia: A Comparison of Acute Physiological Responses When Exercising to Failure or Not.](https://www.researchgate.net/publication/337560911_Resistance_Training_in_Hypoxia_A_comparison_of_acute_physiological_responses_when_exercising_to_failure_or_not) (ASCA Conference - 2019)
@@ -76,6 +81,8 @@ title: About me
  - **Thomas P. Walden** (Presenter), Olivier Girard, Andrew M. Jonson, Alasdair Dempsey, Kieran J. Marston, and Brendan R. Scott. Hypoxic resistance training and the acute physiological effects. (Enviromental Physiology Special Interest Group (EPSIG – 2019)
  
 ## Conference Posters
+ - Philemon Tsang, Wagner H. Souza, **Thomas P. Walden**, Masae Miyatani, B. Cathy Craven. Methods for Exploring the Effects of Exoskeleton Training on Arterial Stiffness (CSCIRA 10th National Spinal Cord Injury Conference - 2023)
+
  - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.researchgate.net/publication/370632018_Blood_Flow_Restricted_Walking_Alters_Gait_Kinematics) (International Conference on Aging, Innovation and Rehabilitation - 2023)
 
  - Philemon Tsang, Wagner H. Souza, **Thomas P. Walden**, Masae Miyatani, B. Cathy Craven. [Methods for Exploring the Effects of Exoskeleton Training on Arterial Stiffness](https://www.researchgate.net/publication/370665909_Methods_for_Exploring_the_Effects_of_Exoskeleton_Training_on_Arterial_Stiffness) (International Conference on Aging, Innovation and Rehabilitation - 2023)
