@@ -72,6 +72,8 @@ title: About me
 
  - Shajaky Parameswaran (Presenter), **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 3rd Place - Student Award Catagory
 
+ - **Thomas P. Walden** (Presenter), Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation? (Tator-Turnbull Symposium – 2023)
+
  - Philemon Tsang, Wagner H. Souza, **Thomas P. Walden**, Masae Miyatani, B. Cathy Craven. Methods for Exploring the Effects of Exoskeleton Training on Arterial Stiffness (University Health Network Postdoctoral Symposium - 2023)
  
  - Brendan R. Scott (Presenter), Kieran J. Marston, Shaun Teo, Mitchell Forrest, **Thomas P. Walden**, Andrew M. Jonson, Sean Mansfield and Jeremiah J. Peiffer. The intensity of exercise. Is the Work-rate a Useful Metric? (ESSA Research to Practice - 2021)
@@ -99,32 +101,16 @@ title: About me
  
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. [Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity](https://www.researchgate.net/publication/344606940_Resistance_Exercise_To_Failure_Or_Not_In_Hypoxia_And_Normoxia_Acute_Changes_In_Weight_Lifting_Velocity) (International Conference on Strength Training - 2018)
 
+## Teaching Philosophy
+The majority of my teaching experience has been within a classroom setting across numerous undergraduate courses, including Biomechanics, Human Physiology, Exercise Rehabilitation, Strength and Conditioning, Sport and Exercise Psychology, and Research Methodologies. I strongly believe in creating a safe and comfortable environment that allows students the opportunity to discuss the topics at hand. Interacting with their peers, explaining and listening to course content from many points of view facilitates a unique learning experience that fosters the beginning of a solid foundation of understanding. The idea stems from the convention of classroom autonomy, giving students a choice in discussion topics and direction, leading to substantially higher classroom participation. I also find that this technique quickly highlights areas that require additional focus, generating class content and discussion points for the following weeks, which directly focus on the needs of the specific class.
 
-## Teaching
-As a part of my role as a PhD candidate I conduct lectures, tutorials, and laboratories for current undergraduate students. Within this role, I work closely with the unit coordinator to develop content and teaching aids with the goal to make our units as engaging and inclusive as possible. In addition to teaching, I am responsible for responding to student emails and unit-related administration, assessing student’s written assignments and practical assessments, and developing and grading end-of-semester examinations.
-
-Due to the recent COVID-19 lockdowns, I adapted unit content to be delivered both face to face, as well as through an online teaching system (blackboard collaborate). With the snap lockdowns that we experienced in Western Australia, I had to be ready to teach in person one week and online the next. This meant taking practical hands-on units and being able to deliver them effectively in an online setting. In addition, all in-person assessments and exams needed to be redeveloped so they could also be performed online if needed, while still meeting the requirements of the accrediting body of the Exercise Science degree, Exercise and Sport Science Australia.
-
-**Teaching Units**
- - Introduction to Research Methodology
- - Biomechanics 
- - Strength and Conditioning
- - Human Physiology
- - Exercise Rehabilitation
- - Sport and Exercise Psychology 
-
-**Kulbardi Aboriginal Centre Tutoring**
-   
-Since february 2020, I have been volunteering at the Kulbardi Aboriginal Centre. As a part of this position, I conduct one-on-one and group tutorial sessions in various areas, including Human Physiology, Exercise Physiology, Strength and Conditioning, Statistics, Psychology and Career Development. Due to my ongoing commitment to this program, I was offered a paid position as an Education Leader in 2022.
-
-## Industry Memberships
- - American College of Sports Medicine (ACSM) Student Member
+As a part of my role as a Ph.D. Candidate and Postdoctoral Fellow, I have had the opportunity to mentor undergraduate, masters, and Ph.D. level students. In these 1:1 situations, I take on the mentality of the age-old saying, 'Give a person a fish they eat for a day – teach them to fish, and they eat for life.' Providing sufficient resources, directed guidance, and clear expectations helps develop vital critical thinking skills, allowing these students to navigate specific issues that may arise during their research journey. I also believe this teaching process entices students to become lifelong learners in their chosen field. My priority is to help these junior researchers find their individual and unique voices for how they will pass on their skills and research findings in the future.
  
-## Research Interests
- - The Biomechanics of Blood Flow Restricted Walking 
- - Effects of Exercise on Cognitive Health
- - Healthy Aging - Health, Fitness, Mobility and Quality of Life Using Exercise
- - Using Enviromental Factors to Improve Sports Performance
+## Affiliations and Industry Memberships
+ - KITE Research Institute – Research Affiliate
+ - PRAXIS – Activity-Based Therapy – Research Affiliate
+ - Canadian Spinal Cord Injury Rehabilitation Association – Affiliate Member
+ - American College of Sports Medicine (ACSM) Student Member
 
 ## Professional Values
  - Thorough Investigation
