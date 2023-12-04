@@ -22,7 +22,7 @@ title: About me
 ## Awards and Honors
 - **International**
   - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
-  - CSCIRA 10th National Spinal Cord Injury Conference - [Postdoctoral Poster Award](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://watermark.silverchair.com/i1945-5763-29-suppl-202.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA30wggN5BgkqhkiG9w0BBwagggNqMIIDZgIBADCCA18GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbMUouEOfEueOqiFzAgEQgIIDMBaLffWDeuMRzwQ1FUX67KQwWlO8ZhyxFrJgrN6eyajd0YGf0Xl5nMTyeFzeMOs7jB-CQb0EH7UGR6_f3Z5RHE_SaSa6bzo1pLIo4UbifyPEPp-M_1ly8j31NngyAO2cD00z6R730xUn13DwCtLpBhA9OEe-emFXBYangAjjF2GIhqPGz4wt89n__Zd7RaiuO71EWGR4uL75ETVF-xRkZkf3DZU269qgFU7zbRPCnTGpMOgq3EcsgU1--wXrkwcyvurhxMeCRMytaFGBGRnDBiG9bX65oY8UDr6PPf0ohgxNynkyZq8dEyyrep6xYcngXRGmnmlogbOr6snF3wGQ2u2_b3xmGqGZzKVqd2vj_ASuY64PGX5ZWrluztX0lRE9EQQjKGdKG-wkXOYbvG7S5Msk0as002EAPXrva6n-k62rd3c5WMquag9hLafO_KknAY8FtJY_qjBrgtNVC2DOOIH_ddHZuJng-qtmG6HRjzXlBgQKiWeTvvO5zUSVVdrT4OA1P67gY5V7lZAj3Hh4Rj3bBMmNeejzOiugXyRHx5WDqDsIyyfvR4kfdZA24tivrFxAhZE5CeVM8cYnqaKIpvX43dlaeO1D6snQqpVuGfOTP7lVnJz9IxryTf9CrrB4kXCQwEZMPSAAEP7J9XxdzLstFlRV_xhOFvCHtIUAT1Mh2Klc9ywclOo2zeyKXEtWT2RlEjPIMP5ebM5BWiR-jnn0lPT9E1aP0lwXmQ6kdx5iVvoLDZ2YPYxOGZmN3fpbDaM71i_XtuwngKOyyzuxj6CEmEiYyNAZY1c63zCNo8PeWYRKDUJ8MAyvoK-Do6bmfyJNC-FwYTNgV-hJHjkzcE3kLRcmW2CYlYjD_VAmTOUDXQtJoQeHQyoTkOSXsS3xTInl2hII3ma1bcAfG5r91YVqQAOokxxZo6kqS7HfKtOVhqSNOCneaCuV0wq3Fyzi0HF3rA54ZUfqnWUxFcND4HDTR27JVlWQjHdkMFCgIt5GhngvjkBhHy2kkagnsfQSSzotyjAAg-PFijm5EGqKBG-R8j48ttT9yhTVT6NVnXficbiUBXoqTqkq-zLKuqrDBg) (2023)
+  - CSCIRA 10th National Spinal Cord Injury Conference - Postdoctoral Poster Award (2023)
   - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
 
 - **National**
@@ -64,8 +64,10 @@ title: About me
 
 ## Published Conference Abstracts
  - **Thomas P. Walden**, Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. [How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation?](https://meridian.allenpress.com/tscir/issue/29/suppl)(Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
+ 
+ - Philemon Tsang, Wagner H Souza, **Thomas P. Walden**, Masae Miyatani and B. Catharine Craven. [Methods for Exploring the Effects of Exoskeleton Training on Arterial Stiffness](https://meridian.allenpress.com/tscir/issue/29/suppl) (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
 
- - Shajaky Parameswaran, **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. [How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury?](https://meridian.allenpress.com/tscir/issue/29/suppl) (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
+ - Shajaky Parameswaran, **Thomas P. Walden**, Louis Brisbois, and B. Catharine Craven. [How Does Sphincter Control Post-Rehabilitation Discharge Influence an Individual's Independence and Quality of Life when Living with a Traumatic Spinal Cord Injury?](https://meridian.allenpress.com/tscir/issue/29/suppl)(Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
 
 ## Conference Presentations
  - **Thomas P. Walden** (Presenter), Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation? (CSCIRA 10th National Spinal Cord Injury Conference - 2023) - 2nd Place - Postdoctoral Award Catagory
