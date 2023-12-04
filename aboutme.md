@@ -31,6 +31,7 @@ title: About me
 - **Local**
   - Australian Government Research Training Program Scheme (2019 - 2022)
     - <u>$30,000/yr for 3.5 years plus $5,000 research budget<u>
+
   - Murdoch Applied Sport Science Best Conference Presentation Award (2019) - $200 prize
 
 - **Mentee Awards**
