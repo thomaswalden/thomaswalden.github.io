@@ -14,7 +14,7 @@ title: About me
  - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
 
 ## Education
- - [**Postdoctoral Research Fellow**](https://www.cravenlab.ca/) - January 2023 to Present - KITE Research Institute - University Health Network.
+ - **Postdoctoral Research Fellow** - January 2023 to Present - [Craven Laboratory](https://www.cravenlab.ca/) - KITE Research Institute - University Health Network.
  - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891) (Feb 2019 - Dec 2022)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science (2015 - 2017)
