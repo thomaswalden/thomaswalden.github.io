@@ -6,19 +6,19 @@ Hi, my name is Thomas Walden. I am a Postdoctoral Research Fellow at the Univers
 
 I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western Australia. My primary Ph.D. research investigated the biomechanical and physiological implications of lower limb blood flow restriction during treadmill walking. Relocating to Toronto in November 2022, I secured a postdoctoral research fellowship within the Craven Lab at Lyndhurst Rehabilitation Centre. Currently, my research focuses on implementing exoskeletons as a rehabilitation tool for individuals with an SCI/D, understanding independence post-rehabilitation discharge for individuals living with an SCI/D, and developing wearable technology to track movement patterns in older adults living with osteoporosis as a falls prevention strategy. My primary career goal is to develop novel training interventions to help remove participation barriers, allowing all individuals access to exercise’s health and fitness benefits.
 
-## Research Employment
-**Data Management Specialist** - June 2022 to Present - Environmental and Life Sciences – Murdoch University.
- - Within this position, my primary role is to develop R scripts that can handle large data sets, run analyses, and produce reports. I am also responsible for teaching R script development to the PhD students within this research team.
- 
-**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
- - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
-
 ## Education
  - **Postdoctoral Research Fellow** - January 2023 to Present - Craven Laboratory, Lyndhurst Rehabilitation Centre - KITE Research Institute - University Health Network.
  - **Doctor of Philosophy (PhD)** - [*Physiological and Biomechanical Responses to Blood Flow Restricted Walking in Young Adults*](https://researchportal.murdoch.edu.au/esploro/outputs/991005570567807891) (Feb 2019 - Dec 2022)
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science (2015 - 2017)
+
+## Research Employment
+**Data Management Specialist** - June 2022 to December 2022- Environmental and Life Sciences – Murdoch University.
+ - Within this position, my primary role is to develop R scripts that can handle large data sets, run analyses, and produce reports. I am also responsible for teaching R script development to the PhD students within this research team.
  
+**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
+ - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
+
 ## Awards and Honors
 - **International**
   - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
@@ -42,13 +42,11 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
   - Ontario Centre of Innovation, Concept to Commercialization Grant (2023-2025)
     - <u>$80,000 across 2 years<u>
 
-  - Office of Research and Trainees, University Health Network – Travel Grant (2024).
+  - Office of Research and Trainees, University Health Network – Travel Grant (2024)
      - <u>$500<u>
-     
-- **Pending Peer Review**
-  - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025)
-    - <u>$70,000 per year for 2 years<u>
 
+  - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025) - Unsuccessful
+    
 ## Peer-Reviewed Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles (2023) European Journal of Sport Science. 
 
@@ -106,12 +104,12 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
  - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden** and Brendan R. Scott. [Resistance exercise to failure or not in hypoxia and normoxia: Acute changes in weight lifting velocity](https://www.researchgate.net/publication/344606940_Resistance_Exercise_To_Failure_Or_Not_In_Hypoxia_And_Normoxia_Acute_Changes_In_Weight_Lifting_Velocity) (International Conference on Strength Training - 2018)
 
 ## Teaching Philosophy
-<div align="justify">The majority of my teaching experience has been within a classroom setting across numerous undergraduate courses, including Biomechanics, Human Physiology, Exercise Rehabilitation, Strength and Conditioning, Sport and Exercise Psychology, and Research Methodologies. I strongly believe in creating a safe and comfortable environment that allows students the opportunity to discuss the topics at hand. Interacting with their peers, explaining and listening to course content from many points of view facilitates a unique learning experience that fosters the beginning of a solid foundation of understanding. The idea stems from the convention of classroom autonomy, giving students a choice in discussion topics and direction, leading to substantially higher classroom participation. I also find that this technique quickly highlights areas that require additional focus, generating class content and discussion points for the following weeks, which directly focus on the needs of the specific class.</div>
+The majority of my teaching experience has been within a classroom setting across numerous undergraduate courses, including Biomechanics, Human Physiology, Exercise Rehabilitation, Strength and Conditioning, Sport and Exercise Psychology, and Research Methodologies. I strongly believe in creating a safe and comfortable environment that allows students the opportunity to discuss the topics at hand. Interacting with their peers, explaining and listening to course content from many points of view facilitates a unique learning experience that fosters the beginning of a solid foundation of understanding. The idea stems from the convention of classroom autonomy, giving students a choice in discussion topics and direction, leading to substantially higher classroom participation. I also find that this technique quickly highlights areas that require additional focus, generating class content and discussion points for the following weeks, which directly focus on the needs of the specific class.
 
-
-<div align="justify">As a part of my role as a Ph.D. Candidate and Postdoctoral Fellow, I have had the opportunity to mentor undergraduate, masters, and Ph.D. level students. In these 1:1 situations, I take on the mentality of the age-old saying, 'Give a person a fish they eat for a day – teach them to fish, and they eat for life.' Providing sufficient resources, directed guidance, and clear expectations helps develop vital critical thinking skills, allowing these students to navigate specific issues that may arise during their research journey. I also believe this teaching process entices students to become lifelong learners in their chosen field. My priority is to help these junior researchers find their individual and unique voices for how they will pass on their skills and research findings in the future.</div>
+As a part of my role as a Ph.D. Candidate and Postdoctoral Fellow, I have had the opportunity to mentor undergraduate, masters, and Ph.D. level students. In these 1:1 situations, I take on the mentality of the age-old saying, 'Give a person a fish they eat for a day – teach them to fish, and they eat for life.' Providing sufficient resources, directed guidance, and clear expectations helps develop vital critical thinking skills, allowing these students to navigate specific issues that may arise during their research journey. I also believe this teaching process entices students to become lifelong learners in their chosen field. My priority is to help these junior researchers find their individual and unique voices for how they will pass on their skills and research findings in the future.
  
 ## Affiliations and Industry Memberships
+ - Chair, NET Team Trainee Committee
  - KITE Research Institute – Research Affiliate
  - PRAXIS – Activity-Based Therapy – Research Affiliate
  - Canadian Spinal Cord Injury Rehabilitation Association – Affiliate Member
