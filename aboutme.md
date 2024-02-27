@@ -13,11 +13,11 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
  - Bachelor of Science - Human Movement and Sport and Health Science (2015 - 2017)
 
 ## Research Employment and Positions
-**Chair, NET Teem Trainee Committee** - 2024 to Present.
-**Affiliate Scientist** Activity-Based Theory Network, PRAXIS - 2023 to Present.
-**Affiliate Scientist** - KITE Research Institute, UHN - 2023 to Present.
-**Data Management Specialist** - June 2022 to December 2022- Environmental and Life Sciences – Murdoch University.
-**Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
+- **Chair, NET Teem Trainee Committee** - 2024 to Present.
+- **Affiliate Scientist** Activity-Based Theory Network, PRAXIS - 2023 to Present.
+- **Affiliate Scientist** - KITE Research Institute, UHN - 2023 to Present.
+- **Data Management Specialist** - June 2022 to December 2022- Environmental and Life Sciences – Murdoch University.
+- **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
  
 ## Awards and Honors
 - **International**
