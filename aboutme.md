@@ -12,17 +12,17 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
  - Sport and Exercise Science - First Class Honours (2018)
  - Bachelor of Science - Human Movement and Sport and Health Science (2015 - 2017)
 
-## Research Employment
+## Research Employment and Positions
+**Chair, NET Teem Trainee Committee** - 2024 to Present.
+**Affiliate Scientist** Activity-Based Theory Network, PRAXIS - 2023 to Present.
+**Affiliate Scientist** - KITE Research Institute, UHN - 2023 to Present.
 **Data Management Specialist** - June 2022 to December 2022- Environmental and Life Sciences – Murdoch University.
- - Within this position, my primary role is to develop R scripts that can handle large data sets, run analyses, and produce reports. I am also responsible for teaching R script development to the PhD students within this research team.
- 
 **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
- - Within this position, my prominent roles included developing research projects, submitting human ethics applications, applying for grant funding, and constructing manuscripts for publication. Day to day, I was involved in running training sessions, corresponding with participants, and recording and managing data.
-
+ 
 ## Awards and Honors
 - **International**
   - CSCIRA 10th National Spinal Cord Injury Conference - 2nd Place, Postdoctoral Abstract Award (2023) - Invited to give Podium Presentation
-  - CSCIRA 10th National Spinal Cord Injury Conference - Postdoctoral Poster Award (2023)
+  - CSCIRA 10th National Spinal Cord Injury Conference - Postdoctoral Poster Award (2023) - Invited to give Podium Presentation
   - European Journal of Sport Science "Future of Sport Science" Writing Competition Finalist (2020) - €50 Prize
 
 - **National**
@@ -108,10 +108,7 @@ The majority of my teaching experience has been within a classroom setting acros
 
 As a part of my role as a Ph.D. Candidate and Postdoctoral Fellow, I have had the opportunity to mentor undergraduate, masters, and Ph.D. level students. In these 1:1 situations, I take on the mentality of the age-old saying, 'Give a person a fish they eat for a day – teach them to fish, and they eat for life.' Providing sufficient resources, directed guidance, and clear expectations helps develop vital critical thinking skills, allowing these students to navigate specific issues that may arise during their research journey. I also believe this teaching process entices students to become lifelong learners in their chosen field. My priority is to help these junior researchers find their individual and unique voices for how they will pass on their skills and research findings in the future.
  
-## Affiliations and Industry Memberships
- - Chair, NET Team Trainee Committee
- - KITE Research Institute – Research Affiliate
- - PRAXIS – Activity-Based Therapy – Research Affiliate
+## Industry Memberships
  - Canadian Spinal Cord Injury Rehabilitation Association – Affiliate Member
  - American College of Sports Medicine (ACSM) Student Member
 
