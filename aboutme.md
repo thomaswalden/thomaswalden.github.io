@@ -44,8 +44,6 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
 
   - Office of Research and Trainees, University Health Network – Travel Grant (2024)
      - <u>$500<u>
-
-  - Banting Postdoctoral Fellowship, Canadian Institutes of Health Research – Salary Support (2023 – 2025) - Unsuccessful
     
 ## Peer-Reviewed Publications
  - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. [Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles](https://onlinelibrary.wiley.com/doi/10.1002/ejsc.12049) (2024) European Journal of Sport Science. 
