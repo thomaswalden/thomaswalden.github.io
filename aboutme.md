@@ -45,12 +45,8 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
   - Office of Research and Trainees, University Health Network – Travel Grant (2024)
      - <u>$500<u>
     
-## Peer-Reviewed Publications
- - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. [Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles](https://onlinelibrary.wiley.com/doi/10.1002/ejsc.12049) (2024) European Journal of Sport Science. 
-
- - Brendan R. Scott, Kieran J. Marston, Shaun Y.M. Teo, Mitchel R.L. Forrest, Andrew M. Jonson, **Thomas P. Walden**, Brook Galna, and Jeremiah J. Peiffer. [The Intensity of a Resistance Exercise Session Can be Quantified by the Work Rate of Exercise.](https://www.proquest.com/docview/2873244351/fulltextPDF/9859ADFEF4E54DAAPQ/1?accountid=47695) (2023) PLOS ONE.
-
- - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. [Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue](https://www.tandfonline.com/doi/full/10.1080/02701367.2023.2193232) (2023) Research Quarterly for Exercise and Sport.
+## First Author Peer-Reviewed Publications
+ - **Thomas P. Walden**, Andrew M. Jonson, Alasdair R. Dempsey, Timothy Fairchild, Olivier Girard. Prescribing Blood Flow Restricted Exercise: Limb Composition Influences the Pressure Required to Create Arterial Occlusion. (2024). Journal of Shport Rehabilitation.
 
  - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.tandfonline.com/doi/full/10.1080/17461391.2023.2194274?scroll=top&needAccess=true&role=tab) (2023) European Journal of Sport Science.
 
@@ -59,6 +55,13 @@ I completed my Ph.D. in Exercise Science at Murdoch University, Perth, Western A
  - **Thomas P. Walden**, Olivier Girard, Brendan R. Scott, Andrew M. Jonson, and Jeremiah J. Peiffer. [Does the Application of Blood Flow Restriction During Walking Exercise Influence the Accuracy of Indirect Calorimetry?](https://www.sciencedirect.com/science/article/pii/S1440244022001074) (2022) Journal of Science and Medicine in Sport.
 
  - **Thomas P. Walden**, Olivier Girard, Alasdair Dempsey, Andrew M. Jonson, Kieran J. Marston, and Brendan R. Scott. [Sessional wok-rate does not affect the magnitude to which simulated hypoxia can augment acute physiological responses during resistance exercise](https://link.springer.com/article/10.1007/s00421-020-04440-3) (2020) European Journal of Applied Physiology.
+
+## Peer-Reviewed Co-Author Publications and Collaborations
+ - Andrew M. Jonson, Olivier Girard, Bradley A. Wall, **Thomas P. Walden**, Paul S.R. Goods, Brook Galna, and Brendan R. Scott. [Reliability and Validity of Free-Weight Countermovermovement Jumps to Characterize Force-Velocity-Power Profiles](https://onlinelibrary.wiley.com/doi/10.1002/ejsc.12049) (2024) European Journal of Sport Science. 
+
+ - Brendan R. Scott, Kieran J. Marston, Shaun Y.M. Teo, Mitchel R.L. Forrest, Andrew M. Jonson, **Thomas P. Walden**, Brook Galna, and Jeremiah J. Peiffer. [The Intensity of a Resistance Exercise Session Can be Quantified by the Work Rate of Exercise.](https://www.proquest.com/docview/2873244351/fulltextPDF/9859ADFEF4E54DAAPQ/1?accountid=47695) (2023) PLOS ONE.
+
+ - Andrew M. Jonson, Olivier Girard, **Thomas P. Walden**, Kieran J. Marston, and Brendan R. Scott. [Hypoxia Does Not Impair Resistance Exercise Performance or Amplify Post-Exercise Fatigue](https://www.tandfonline.com/doi/full/10.1080/02701367.2023.2193232) (2023) Research Quarterly for Exercise and Sport.
 
 ## Published Conference Abstracts
  - **Thomas P. Walden**, Shajaky Parameswaran, Louis Brisbois, and B. Catharine Craven. [How Does the Nature of the Bowel Impairment Influence Longitudinal Sphincter Control After Discharge from Inpatient Rehabilitation?](https://meridian.allenpress.com/tscir/issue/29/suppl) (Topics in Spinal Cord Injury Rehabilitation, Special Issue [CSCIRA 10th National Spinal Cord Injury Conference] - 2023)
