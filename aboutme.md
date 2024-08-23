@@ -18,6 +18,12 @@ Having received my Ph.D. in Kinesiology, my focus has now turned to pursuing an 
 - **Affiliate Scientist** - KITE Research Institute, UHN - 2023 to Present.
 - **Data Management Specialist** - June 2022 to December 2022- Environmental and Life Sciences – Murdoch University.
 - **Research Assistant** - 2019 to 2022 - Centre for Health Aging - Murdoch University.
+
+## Academic and Teaching Positions
+- **Lead Advisor for Scholarly Practicum** - Rehabilitation Sciences Institute - University of Toronto - 2024 to 2025
+- **Course Demonstrator** - Rehabilitation Sciences Institute - University of Toronto - 2024 to Present
+- **Sessionla Academic** - School of Phycology and Exercise Science - Murdoch University - 2019 to 2022
+- **Education Leader** - Kulbardi Aboriginal Centre, Murdoch University - 2019 to 2022
  
 ## Awards and Honors
 - **International**
