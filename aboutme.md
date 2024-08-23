@@ -46,7 +46,7 @@ Having received my Ph.D. in Kinesiology, my focus has now turned to pursuing an 
      - <u>$500<u>
     
 ## First Author Peer-Reviewed Publications
- - **Thomas P. Walden**, Andrew M. Jonson, Alasdair R. Dempsey, Timothy Fairchild, Olivier Girard. Prescribing Blood Flow Restricted Exercise: Limb Composition Influences the Pressure Required to Create Arterial Occlusion. (2024). Journal of Shport Rehabilitation.
+ - **Thomas P. Walden**, Andrew M. Jonson, Alasdair R. Dempsey, Timothy Fairchild, Olivier Girard. [Prescribing Blood Flow Restricted Exercise: Limb Composition Influences the Pressure Required to Create Arterial Occlusion](https://journals.humankinetics.com/view/journals/jsr/aop/article-10.1123-jsr.2023-0423/article-10.1123-jsr.2023-0423.xml) (2024). Journal of Shport Rehabilitation.
 
  - **Thomas P. Walden**, Timothy Fairchild, Olivier Girard, Jeremiah J. Peiffer, Andrew M. Jonson and Alasdair R. Dempsey. [Blood Flow Restricted Walking Alters Gait Kinematics](https://www.tandfonline.com/doi/full/10.1080/17461391.2023.2194274?scroll=top&needAccess=true&role=tab) (2023) European Journal of Sport Science.
 
